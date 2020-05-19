@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["x","jQuery","find","console","log"],"mappings":"AAAA,IAAMA,CAAC,GAAGC,MAAM,CAAC,OAAD,CAAN,CACLC,IADK,CACA,OADA,CAAV;AAEAC,OAAO,CAACC,GAAR,CAAYJ,CAAZ","file":"main.1f19ae8e.js","sourceRoot":"..\\src","sourcesContent":["const x = jQuery('.test')\r\n    .find('child')\r\nconsole.log(x)"]}
